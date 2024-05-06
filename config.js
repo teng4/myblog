@@ -18,5 +18,5 @@ module.exports = {
   // pathPrefix: '/devblog',
   // siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
   pathPrefix: '/myblog',
-  siteUrl: 'https://teng4.github.io/myblog/',
+  siteUrl: 'https://teng4444.github.io/myblog/',
 };
